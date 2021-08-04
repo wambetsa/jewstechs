@@ -1,0 +1,5 @@
+Psy Shell v0.9.9 (PHP 7.2.20 — cli) by Justin Hileman
+PHP Warning:  include(factory(App/User::class,): failed to open stream: No such file or directory in C:/xampp/htdocs/messaging/laravel/vendor/psy/psysh/src/ExecutionLoop.php on line 48
+PHP Warning:  include(20)-;): failed to open stream: No such file or directory in C:/xampp/htdocs/messaging/laravel/vendor/psy/psysh/src/ExecutionLoop.php on line 48
+
+Exit:  Ctrl+D
